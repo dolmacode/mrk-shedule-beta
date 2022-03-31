@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "eb71750cc9a22e7aabfd46a7870efd83",
+    "packages": [
+        {
+            "name": "asika/pdf2text",
+            "version": "1.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/asika32764/php-pdf-2-text.git",
+                "reference": "a14ea95695a277e385dbc03caeddb91c5e10319f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/asika32764/php-pdf-2-text/zipball/a14ea95695a277e385dbc03caeddb91c5e10319f",
+                "reference": "a14ea95695a277e385dbc03caeddb91c5e10319f",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Asika\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL v2"
+            ],
+            "authors": [
+                {
+                    "name": "Simon Asika",
+                    "email": "asika32764@gmail.com"
+                }
+            ],
+            "description": "Simple PHP PDF to text class.",
+            "support": {
+                "issues": "https://github.com/asika32764/php-pdf-2-text/issues",
+                "source": "https://github.com/asika32764/php-pdf-2-text/tree/master"
+            },
+            "time": "2016-11-02T03:47:29+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}

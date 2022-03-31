@@ -1,0 +1,123 @@
+#root {
+    width:1300px;
+    margin:120px auto;
+    display:flex;
+    flex-direction: row;
+}
+
+.logotype-icon {
+    width:90px;
+    height:90px;
+    box-shadow:0 4px 8px rgba(0,0,0,0.26);
+    border-radius:1.5em;
+}
+
+.logotype {
+    display:flex;
+    flex-direction: row;
+}
+
+.logotype span {
+    font-family:'CEST Bold', sans-serif;
+    font-size:24px;
+    line-height:90px;
+    margin-left:2em;
+}
+
+.f-crc-madeby {
+    display:flex;
+    flex-direction:row;
+    padding:0.2em 0.2em 0.2em 1em;
+    border-radius:4em;
+    background:#f0f0f0;
+    max-width:12.1em;
+    text-decoration:none;
+}
+
+.fc-mb-icon {
+    width:45px;
+    height:45px;
+    border-radius: 50%;
+}
+
+.f-crc-madeby span {
+    line-height:45px;
+    margin-right:1em;
+    color:#333;
+}
+
+.form-container form {
+    display:flex;
+    flex-direction:column;
+    max-width:370px;
+    margin:8vh 0;
+}
+
+.form-container form label {
+    font-size:20px;
+    font-family:'CEST Regular', sans-serif;
+    margin:0.5em 0;
+}
+
+.form-input {
+    padding:0.9em 1.5em;
+    border:0;
+    border-radius:0.6em;
+    margin:1.5em 0;
+    box-shadow:0 4px 8px rgba(0,0,0,0.26);
+}
+
+.form-submit {
+    padding: 0.9em 1.5em;
+    border: none;
+    border-radius: 0.6em;
+    margin: 1em 0;
+    background: #005ab6;
+    color:#fff;
+    font-family:'CEST Medium', sans-serif;
+    transition:0.1s;
+    box-shadow:0 4px 8px rgba(0,0,0,0.26);
+}
+
+.form-submit:hover {
+    cursor:pointer;
+    background: #e6f1ff;
+    color:#333;
+    outline:2px solid #005ab6;
+}
+
+.image-icon {
+    width: 70vh;
+    height:auto;
+    margin-left:25vh;
+}
+
+.right {
+    width:250px;
+    margin-left:auto;
+    position:relative;
+}
+
+.f-crc {
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+
+.rasp-table {
+    text-align: center;
+    margin-bottom:15vh;
+}
+
+.rasp-table * {
+    padding:1em 4em;
+    border:1px solid #707070;
+}
+
+.rasp-c-time span, .rasp-info span {
+    font-family:'CEST Bold', sans-serif;
+}
+
+.rasp-c-time {
+    margin:10vh 0;
+}

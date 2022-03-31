@@ -1,0 +1,93 @@
+@font-face {
+    font-family:'CEST Black';
+    src:url('/application/assets/fonts/ALSHauss-Black.ttf');
+}
+
+@font-face {
+    font-family:'CEST Bold';
+    src:url('/application/assets/fonts/ALSHauss-Bold.ttf');
+}
+
+@font-face {
+    font-family:'CEST Light';
+    src:url('/application/assets/fonts/ALSHauss-Light.ttf');
+}
+
+@font-face {
+    font-family:'CEST Medium';
+    src:url('/application/assets/fonts/ALSHauss-Medium.ttf');
+}
+
+@font-face {
+    font-family:'CEST Regular';
+    src:url('/application/assets/fonts/ALSHauss-Regular.ttf');
+}
+
+@font-face {
+    font-family:'Bebas Bold';
+    src:url('/application/assets/fonts/BebasNeue Bold.ttf');
+}
+
+@font-face {
+    font-family:'Bebas Light';
+    src:url('/application/assets/fonts/BebasNeue Light.ttf');
+}
+
+@font-face {
+    font-family:'Bebas Regular';
+    src:url('/application/assets/fonts/BebasNeue Regular.ttf');
+}
+
+@font-face {
+    font-family:'Century Gothic';
+    src:url('/application/assets/fonts/Century Gothic Bold.ttf');
+}
+
+@font-face {
+    font-family:'Gilroy Black';
+    src:url('/application/assets/fonts/Gilroy-Black.ttf');
+}
+
+@font-face {
+    font-family:'Gilroy Bold';
+    src:url('/application/assets/fonts/Gilroy-Bold.ttf');
+}
+
+@font-face {
+    font-family:'Gilroy EB';
+    src:url('/application/assets/fonts/Gilroy-Extrabold.ttf');
+}
+
+@font-face {
+    font-family:'Gilroy Heavy';
+    src:url('/application/assets/fonts/Gilroy-Heavy.ttf');
+}
+
+@font-face {
+    font-family:'Gilroy SB';
+    src:url('/application/assets/fonts/Gilroy-Semibold.ttf');
+}
+
+@font-face {
+    font-family:'Playfair';
+    src:url('/application/assets/fonts/PlayfairDisplay-Black.ttf');
+}
+
+@font-face {
+    font-family:'YST Bold';
+    src:url('/application/assets/fonts/YandexSansText-Bold.ttf');
+}
+
+@font-face {
+    font-family:'YST Medium';
+    src:url('/application/assets/fonts/YandexSansText-Medium.ttf');
+}
+
+@font-face {
+    font-family:'YST Regular';
+    src:url('/application/assets/fonts/YandexSansText-Regular.ttf');
+}
+
+* {
+    font-family:'CEST Regular';
+}
